@@ -4,5 +4,6 @@
 
 لینک گوگل درایو توضیح پروژه طراحی مچ بند هوشمند:
 https://drive.google.com/file/d/1uN2HTS5Wt-oqSwqVQp-O_pPVzVAf4x2C/view?usp=drive_link
+
 لینک گوگل درایو پروژه و تمامی فعالیت های کلاسی:
 https://drive.google.com/drive/folders/1t60cGLn013Ep5F4Ft_9nn4Ba7i-FDGYs?usp=drive_link
