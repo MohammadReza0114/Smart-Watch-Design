@@ -6,8 +6,11 @@ The link related to this project is given below and it should be mentioned that 
 # Code Explanation:
 Initially, I installed the required libraries using pip install, specifically the swarm library for the Particle Swarm Optimization (PSO) algorithm, and the everywhereml library for converting Python code to MicroPython or Arduino code. In the Colab environment, since other libraries are pre-installed, it was only necessary to import them. The numpy library was used for algebraic computations, such as vector and matrix definitions and inner product calculations. The sklearn library was employed for implementing machine learning algorithms, particularly the Random Forest algorithm in this project. It was also used for measuring model parameters and splitting the dataset into specified ratios for training and testing.Subsequently, the parameters for the machine learning model and the PSO optimization algorithm were defined. The resulting model was then converted into Arduino code, allowing it to be executed on a microcontroller, specifically the ESP32-WROOM32 used in this project. For further information, please refer to the links below.
 for learn more about machine learning algorithm with python,Please refer to the reference below.
+
 https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1318/
+
 for learn more about metahuristic algorithm with python,Please refer to the reference below.
+
 https://biglearn.ir/product/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%A7%D8%A8%D8%AA%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7/
 
 Google Drive link,description of the smart wristband design project:
