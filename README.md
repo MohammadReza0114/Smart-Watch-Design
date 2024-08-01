@@ -15,7 +15,9 @@ for learn more about metahuristic algorithm with python,Please refer to the refe
 https://biglearn.ir/product/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%A7%D8%A8%D8%AA%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7/
 
 Google Drive link,description of the smart wristband design project:
+
 https://drive.google.com/file/d/1uN2HTS5Wt-oqSwqVQp-O_pPVzVAf4x2C/view?usp=drive_link
 
 Google Drive link of the project and all class activities:
+
 https://drive.google.com/drive/folders/1t60cGLn013Ep5F4Ft_9nn4Ba7i-FDGYs?usp=drive_link
